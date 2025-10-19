@@ -1,0 +1,16 @@
+<!-- filename: e-icon-gradient.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Gradient script E" width="200" height="200">
+  <title>Gradient Script E</title>
+  <desc>Flowing script-style lowercase e with colorful gradient stroke</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="28" fill="transparent"/>
+  <path d="M62 108c8-16 24-28 44-28 20 0 32 12 32 28 0 16-14 30-34 30-12 0-22-6-28-14" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 108c6-36 36-58 68-58" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
